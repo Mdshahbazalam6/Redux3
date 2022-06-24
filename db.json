@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "item": "Apple",
+      "status": false,
+      "id": 3
+    },
+    {
+      "item": "Eat",
+      "status": false,
+      "id": 4
+    },
+    {
+      "item": "sleep",
+      "status": true,
+      "id": 5
+    },
+    {
+      "item": "Code",
+      "status": true,
+      "id": 6
+    },
+    {
+      "item": "run",
+      "status": false,
+      "id": 7
+    },
+    {
+      "item": "walk",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
